@@ -1,0 +1,4 @@
+enum OrigemImagem {
+  gallery,
+  camera,
+}
